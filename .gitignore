@@ -1,0 +1,11 @@
+# 忽略编译生成的文件
+*.o
+*.d
+*.crf
+*.htm
+*.axf
+*.lnp
+*.sct
+*.hex
+*.Bak
+*.dep
